@@ -1,0 +1,20 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+page	/Users/heron/Program/Phatomjs/typing-robot/type.js	/^var page = require("webpage").create();$/;"	v	language:JavaScript
+page.onAlert	/Users/heron/Program/Phatomjs/typing-robot/type.js	/^        };$/;"	f	language:JavaScript
+page.onClosing	/Users/heron/Program/Phatomjs/typing-robot/type.js	/^        }$/;"	f	language:JavaScript
+page.onConfirm	/Users/heron/Program/Phatomjs/typing-robot/type.js	/^        };$/;"	f	language:JavaScript
+page.onConsoleMessage	/Users/heron/Program/Phatomjs/typing-robot/type.js	/^        };$/;"	f	language:JavaScript
+page.onError	/Users/heron/Program/Phatomjs/typing-robot/type.js	/^        };$/;"	f	language:JavaScript
+page.onInitialized	/Users/heron/Program/Phatomjs/typing-robot/type.js	/^var logResources = false;$/;"	f	language:JavaScript
+page.onLoadFinished	/Users/heron/Program/Phatomjs/typing-robot/type.js	/^    };$/;"	f	language:JavaScript
+page.onLoadStarted	/Users/heron/Program/Phatomjs/typing-robot/type.js	/^};$/;"	f	language:JavaScript
+page.onNavigationRequested	/Users/heron/Program/Phatomjs/typing-robot/type.js	/^    };$/;"	f	language:JavaScript
+page.onPrompt	/Users/heron/Program/Phatomjs/typing-robot/type.js	/^        };$/;"	f	language:JavaScript
+page.onRepaintRequested	/Users/heron/Program/Phatomjs/typing-robot/type.js	/^    };$/;"	f	language:JavaScript
+page.onResourceError	/Users/heron/Program/Phatomjs/typing-robot/type.js	/^        };$/;"	f	language:JavaScript
+page.onResourceReceived	/Users/heron/Program/Phatomjs/typing-robot/type.js	/^        };$/;"	f	language:JavaScript
+page.onResourceRequested	/Users/heron/Program/Phatomjs/typing-robot/type.js	/^    if (logResources === true) {$/;"	f	language:JavaScript
+page.onUrlChanged	/Users/heron/Program/Phatomjs/typing-robot/type.js	/^    };$/;"	f	language:JavaScript
+page.viewportSize.height	/Users/heron/Program/Phatomjs/typing-robot/type.js	/^    width: 1440,$/;"	p	language:JavaScript
+page.viewportSize.width	/Users/heron/Program/Phatomjs/typing-robot/type.js	/^page.viewportSize = {$/;"	p	language:JavaScript
+url	/Users/heron/Program/Phatomjs/typing-robot/type.js	/^var url = "http:\/\/10fastfingers.com\/typing-test\/english"$/;"	v	language:JavaScript
